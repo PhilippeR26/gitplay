@@ -1,1 +1,1 @@
-const te2=123;
+const te2="Error";
